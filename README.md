@@ -27,7 +27,14 @@ GIF created with
 [peek](https://github.com/phw/peek) for Linux. -->
 
 ## App Brainstorming (Step 4)
-
+- YouTube
+  - Search recommendations
+  - Miniplayer 
+- Spotify
+  - Thumbnails for songs and albums
+  - List View for songs and albums
+- MY IDEA
+  - GameFinder: An app that works like justwatch but for games, old games that are hard to find now a days as only specific developers have rebuilt games to online hosting, or for new games as new developers start their journey and need an audience. 
 ## Notes
 
 Describe any challenges encountered while building the app.
